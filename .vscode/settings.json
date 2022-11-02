@@ -4,6 +4,7 @@
         "vector": "cpp",
         "xstring": "cpp",
         "xlocale": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "xutility": "cpp"
     }
 }
